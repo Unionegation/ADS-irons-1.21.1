@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "dev.union.adsirons.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "GunplayManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "client": [
+    "client.AdsItemInHandRendererMixin"
+  ]
+}

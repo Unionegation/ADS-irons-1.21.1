@@ -1,0 +1,20 @@
+{
+  "key.ads_irons.aim_down_sights": "Aim Down Sights",
+  "key.categories.ads_irons": "ADS Irons",
+  "ads_irons.configuration.title": "ADS Irons",
+  "ads_irons.configuration.section.ads_irons.client.toml": "ADS Irons Client",
+  "ads_irons.configuration.section.ads_irons.client.toml.title": "ADS Irons Client",
+  "ads_irons.configuration.ads": "Aim Down Sights",
+  "ads_irons.configuration.enabled": "Enabled",
+  "ads_irons.configuration.enabled.tooltip": "Hold the Aim Down Sights key (right-click by default) with a gun to aim. Applies immediately.",
+  "ads_irons.configuration.sightDrop": "Sight Drop",
+  "ads_irons.configuration.sightDropOverrides": "Sight Drop Overrides",
+  "ads_irons.configuration.horizontalOffset": "Horizontal Offset",
+  "ads_irons.configuration.forwardOffset": "Forward Offset",
+  "ads_irons.configuration.pitch": "Pitch",
+  "ads_irons.configuration.yaw": "Yaw",
+  "ads_irons.configuration.roll": "Roll",
+  "ads_irons.configuration.fovMultiplier": "FOV Multiplier",
+  "ads_irons.configuration.transitionTicks": "Transition Ticks",
+  "ads_irons.configuration.hideCrosshair": "Hide Crosshair"
+}
